@@ -1,6 +1,6 @@
-x = int(input())
-y = int(input())
-z = int(input())
+x = int(17)
+y = int(14)
+z = int(9)
 def max_of_two (x, y) :
     if x > y:
         return x
