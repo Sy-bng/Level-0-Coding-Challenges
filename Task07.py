@@ -1,4 +1,4 @@
-celsius = int(input())
+celsius = int(32)
 def convert(c):
   return (9/5*celsius)+32  
 fahrenheit = convert(celsius)
